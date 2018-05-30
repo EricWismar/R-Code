@@ -1,2 +1,3 @@
 # R--Code
-A capture of my SQL code
+A capture of my R code
+Currently just to test if possible.
